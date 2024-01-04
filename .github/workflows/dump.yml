@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX3710export_11_A.51_2023063012440119.zip
+  ROM_URL: https://mde1.androidfilehost.com/dl/0EaOjS4XpIjhI9GwH-iTFA/1704470537/10620683726822073125/FirmwareX.Net_Oppo_Reno_4_Pro_5G_CPH2089_EX_11_C.61_220222_RFT.rar
   jobs:
   build:
     runs-on: ubuntu-latest
