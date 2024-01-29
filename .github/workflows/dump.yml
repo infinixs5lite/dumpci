@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://mde1.androidfilehost.com/dl/0EaOjS4XpIjhI9GwH-iTFA/1704470537/10620683726822073125/FirmwareX.Net_Oppo_Reno_4_Pro_5G_CPH2089_EX_11_C.61_220222_RFT.rar
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PDICNXM/sakura_images_V12.0.1.0.PDICNXM_20200728.0000.00_9.0_cn_83d6027909.tgz
   jobs:
   build:
     runs-on: ubuntu-latest
