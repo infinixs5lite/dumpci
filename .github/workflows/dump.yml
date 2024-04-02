@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PDICNXM/sakura_images_V12.0.1.0.PDICNXM_20200728.0000.00_9.0_cn_83d6027909.tgz
+  ROM_URL: https://mva2.androidfilehost.com/dl/rR-EwZm4jczBulhxPWh-oA/1712103031/4279422670115728936/%5BHovatek%5D_Infinix_HOT_12_%28X6817-H6920ABCDEFHIJ-S-OP-221201V1317%29.zip
   jobs:
   build:
     runs-on: ubuntu-latest
